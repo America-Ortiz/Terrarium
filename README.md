@@ -8,6 +8,6 @@ a practicar las bases del código HTML + CSS + JS 💗
 
 # autor
 <img 
-src="https://avatars.githubusercontent.com/u/144040501?v=4"
-alt="Ricardo Cruz Torres"
+src="https://avatars.githubusercontent.com/u/180496294?v=4"
+alt="America Ortiz"
 width="200"/>
