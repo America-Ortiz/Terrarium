@@ -1,4 +1,4 @@
-# trerrarum
+# Terrarium
 
 ![Terrarium Image](./images/terrarium_banner.jpg)
 
